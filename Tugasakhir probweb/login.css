@@ -1,0 +1,78 @@
+@media(max-width:1000px){
+    body {
+        background-color: #272829;
+        text-align: center;
+        color: white;
+    }
+    .kan h1{
+        font-size: 70px !important;
+        margin-top: -30% !important;
+    }
+    .kan p{
+        font-size: 45px !important;
+    }
+    .row{
+        color: white;
+        margin-top: 50%;
+        padding-top: 30%;
+    }
+    .wor{
+        background: none !important;
+        margin-top: 300px !important;
+        margin-left: -12%;
+        padding-top: 50%;
+        padding-bottom: 5%;
+        width: 125% !important;
+    }
+    button{
+        width: 200px;
+        height: 100px !important;
+        color: black;
+        font-size: 40px !important;
+        text-align: center;
+    }
+    input {
+        width: 550px !important;
+        height: 60px !important;
+    }
+    form {
+        font-size: 50px !important;
+    }
+}
+
+body {
+    background-color: #272829;
+    text-align: center;
+    color: white;
+}
+.row{
+    color: white;
+    margin-top: 40%;
+    padding-top: 15%;
+}
+.wor{
+    background-color: grey;opacity: 75%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+button{
+    width: 200px;
+    height: 50px;
+    color: black;
+    font-size: 50px;
+}
+input {
+    width: 400px;
+    height: 40px;
+}
+form {
+    font-size: 30px;
+}
+
+.kan h1{
+    font-size: 50px;
+}
+.kan {
+    font-size: 30px;
+}
